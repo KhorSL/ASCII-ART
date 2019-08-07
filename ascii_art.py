@@ -33,7 +33,7 @@ PIXEL_OFF = 255  # PIL color to use for "off"
 DEFAULT_FONT_PATH = 'fonts/Courier New.ttf'
 
 
-FIXED_NEW_WIDTH = 75
+FIXED_NEW_WIDTH = 100
 
 '''
   * Credits: 
