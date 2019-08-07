@@ -3,7 +3,7 @@
 ## About ASCII-ART
 ASCII-ART is a python script that converts images to ASCII art.
 
-For example, when the following image of Pikachu - 
+For example, when the following image of dinosaur - 
 ![pikachu](samples/images/dino.png)
 
 will be converted to an image such as (width of image can be adjusted)-
@@ -128,3 +128,7 @@ Artifacts generated will be in `output/`.
 - No future plans as of now.
 
 ---
+
+## References
+
+- [Dinosaur Sprite](https://www.gameart2d.com/free-dino-sprites.html)
