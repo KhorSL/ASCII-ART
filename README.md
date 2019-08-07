@@ -4,7 +4,7 @@
 ASCII-ART is a python script that converts images to ASCII art.
 
 For example, when the following image of Pikachu - 
-![pikachu]('samples/images/pikachu.jpeg')
+![pikachu](samples/images/pikachu.jpeg)
 
 will be converted to an image such as (width of image can be adjusted)-
 
