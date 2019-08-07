@@ -122,6 +122,30 @@ $ python ascii-art.py samples/images/dino.png
 
 Artifacts generated will be in `output/`.
 
+### Adjustments to Output Images
+
+Adjust `FIXED_NEW_WDITH` and `large_font` to fine tune the image.
+
+#### Example Adjustment
+```python
+''' other codes... '''
+
+FIXED_NEW_WIDTH = 200
+
+  ''' other codes... '''
+
+def string_image(string, font_path=None):
+
+  ''' other codes... '''
+  large_font = 20  # get better resolution with larger size
+
+  ''' other codes... '''
+```
+
+#### Example Result
+
+![Clearer Dino](samples/images/dino_ascii_clearer.png)
+
 ---
 
 ## Future Plans
