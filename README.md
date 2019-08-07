@@ -3,8 +3,8 @@
 ## About ASCII-ART
 ASCII-ART is a python script that converts images to ASCII art.
 
-For example, when the following image of dinosaur - 
-![pikachu](samples/images/dino.png)
+For example, when the following image of a dinosaur - 
+![dinosaur](samples/images/dino.png)
 
 will be converted to an image such as (width of image can be adjusted)-
 
